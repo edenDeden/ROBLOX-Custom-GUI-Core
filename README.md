@@ -1,2 +1,7 @@
 # ROBLOX-Custom-GUI-Core
-A kit with a bunch of custom core GUIs
+All custom options availble:
+1) Chat
+2) Topbar
+3) Notifactions
+4) Backpack
+
